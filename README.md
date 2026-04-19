@@ -74,22 +74,6 @@ https://huggingface.co/OpenSynapseLabs/arche3-animal
 
 ---
 
-## 🔧 Building from Source
-
-\`\`\`bash
-git clone https://github.com/OpenSynapseLabs/arche3-animal-desktop.git
-cd arche3-animal-desktop/electron
-npm install
-
-# macOS
-npm run build:mac
-
-# Windows (run on Windows machine)
-npm run build:win
-\`\`\`
-
----
-
 ## 📄 License
 
 CC BY-NC-SA 4.0 (non-commercial use only)
